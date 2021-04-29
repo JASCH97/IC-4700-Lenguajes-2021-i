@@ -1,0 +1,19 @@
+1)
+-Prueba de si un nino puede jugar un juego con menor edad a su restriccion-
+puede_jugar(daniela,fallguys).
+
+2)
+-Prueba de si un nino puede jugar un juego con edad igual a su restriccion-
+puede_jugar(tania,dragonBallZ).
+
+3)
+-Prueba de si un nino puede jugar un juego con edad mayor a su restriccion-
+puede_jugar(julia,marioKart).
+
+4)
+-Otra prueba como la 1 pero con otro nino-
+puede_jugar(alvaro,gtaV).
+
+5)
+-Otra prueba como la 2 pero con otro nino-
+puede_jugar(maria,ageOfEmpires).

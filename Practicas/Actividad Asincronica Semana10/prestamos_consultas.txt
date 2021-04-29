@@ -1,0 +1,21 @@
+1)
+-Una prueba de si alguien con balance negativo podia prestar-
+puede_prestar(maria,mateo,1000).
+
+2)
+-Prueba de si alguien con balance positivo podia prestar a una persona con balance 0-
+puede_prestar(stephanie,mateo,1000).
+
+3)
+-Prueba de si alguien con balance positivo podia prestar una cantidad mayor al balance
+negativo de otra persona-
+puede_prestar(stephanie,marcela,130500).
+
+4)
+-Prueba normal para realizar un prestamo entre dos personas con balance positivo-
+puede_prestar(stephanie,sergio,130500).
+
+5)
+-Prueba de si alguien podia prestar un monto mayor a su balance a otra persona con 
+balance positivo-
+puede_prestar(stephanie,sergio,160000).
