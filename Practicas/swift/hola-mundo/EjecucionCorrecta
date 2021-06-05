@@ -1,0 +1,5 @@
+Para ejecutar el archivo de ejecucion correctamente se debe escribir:
+
+./.build/x86_64-unknown-linux-gnu/debug/hola-mundo
+
+dentro de la carpeta hola mundo.

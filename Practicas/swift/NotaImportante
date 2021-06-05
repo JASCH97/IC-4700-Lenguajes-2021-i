@@ -1,0 +1,8 @@
+Para que funcione swift correctamente, debo ubicarme en la carpeta 
+donde desee utilizarlo y antes de escribir: swift
+
+debo primero poner esto en la terminal:
+
+export PATH=/home/joan/Downloads/swift-5.4.1-RELEASE-ubuntu20.04/usr/bin:"${PATH}"
+
+que es el lugar donde se extrajo swift
