@@ -29,4 +29,4 @@ externo1.imprimirInfo()
 externo1.agregarCrimenGeografico(descripcionDenuncia:"Me robaron el carro afuera de mi casa",fechaHoraDenuncia:"1997-04-07, 04:05",latitud:60.54,longitud:-90.87)
 externo1.imprimirDenuncias()
 
-print(usuario1.getArrayDenuncias())
+
